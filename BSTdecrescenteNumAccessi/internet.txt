@@ -1,0 +1,7 @@
+www.unimore.it 39
+www.ing.unimore.it 45
+ciao.it 4
+opera.com 102
+a 40
+b 38
+c 3
