@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\eros\desktop\info 2\prioritàprocessore (gredy)\main.c(50): warning C4013: 'malloc' non definita. Verrà considerata come esterna che restituisce un int.
+c:\users\eros\desktop\info 2\prioritàprocessore (gredy)\main.c(50): warning C4047: 'inizializzazione': 'int *' differisce da 'int' nei livelli di riferimento indiretto
+  PrioritàProcessore.vcxproj -> C:\Users\Eros\Desktop\INFO 2\PrioritàProcessore (GREDY)\Debug\PrioritàProcessore.exe
