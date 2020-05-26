@@ -1,0 +1,13 @@
+﻿  main.c
+  tree.c
+c:\users\eros\desktop\info 2\alberoordinatoalfabeticamente\tree.c(713): warning C4028: parametro formale 1 differente dalla dichiarazione
+c:\users\eros\desktop\info 2\alberoordinatoalfabeticamente\tree.c(800): warning C4133: 'funzione': tipi non compatibili. Da 'tree1' a 'tree'
+c:\users\eros\desktop\info 2\alberoordinatoalfabeticamente\tree.c(800): warning C4133: '=': tipi non compatibili. Da 'tree' a 'tree1'
+c:\users\eros\desktop\info 2\alberoordinatoalfabeticamente\tree.c(802): warning C4133: 'funzione': tipi non compatibili. Da 'tree1' a 'tree'
+c:\users\eros\desktop\info 2\alberoordinatoalfabeticamente\tree.c(802): warning C4133: '=': tipi non compatibili. Da 'tree' a 'tree1'
+c:\users\eros\desktop\info 2\alberoordinatoalfabeticamente\tree.c(808): warning C4133: 'funzione': tipi non compatibili. Da 'tree1' a 'tree'
+c:\users\eros\desktop\info 2\alberoordinatoalfabeticamente\tree.c(808): warning C4133: '=': tipi non compatibili. Da 'tree' a 'tree1'
+c:\users\eros\desktop\info 2\alberoordinatoalfabeticamente\tree.c(810): warning C4133: 'funzione': tipi non compatibili. Da 'tree1' a 'tree'
+c:\users\eros\desktop\info 2\alberoordinatoalfabeticamente\tree.c(810): warning C4133: '=': tipi non compatibili. Da 'tree' a 'tree1'
+  Generazione del codice in corso...
+  AlberoOrdinatoAlfabeticamente.vcxproj -> C:\Users\Eros\Desktop\INFO 2\AlberoOrdinatoAlfabeticamente\Debug\AlberoOrdinatoAlfabeticamente.exe

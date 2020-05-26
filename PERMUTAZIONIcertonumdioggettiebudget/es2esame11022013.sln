@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "es2esame11022013", "es2esame11022013.vcxproj", "{DEEDA760-BFA7-4D31-95C4-3B596DCA68CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEEDA760-BFA7-4D31-95C4-3B596DCA68CF}.Debug|x64.ActiveCfg = Debug|x64
+		{DEEDA760-BFA7-4D31-95C4-3B596DCA68CF}.Debug|x64.Build.0 = Debug|x64
+		{DEEDA760-BFA7-4D31-95C4-3B596DCA68CF}.Debug|x86.ActiveCfg = Debug|Win32
+		{DEEDA760-BFA7-4D31-95C4-3B596DCA68CF}.Debug|x86.Build.0 = Debug|Win32
+		{DEEDA760-BFA7-4D31-95C4-3B596DCA68CF}.Release|x64.ActiveCfg = Release|x64
+		{DEEDA760-BFA7-4D31-95C4-3B596DCA68CF}.Release|x64.Build.0 = Release|x64
+		{DEEDA760-BFA7-4D31-95C4-3B596DCA68CF}.Release|x86.ActiveCfg = Release|Win32
+		{DEEDA760-BFA7-4D31-95C4-3B596DCA68CF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {866D7F92-A17E-4325-B752-2A750B670431}
+	EndGlobalSection
+EndGlobal

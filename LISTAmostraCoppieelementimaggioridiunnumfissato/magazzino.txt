@@ -1,0 +1,15 @@
+carota
+5
+pera
+10
+cipolla
+20
+aglio 
+7
+carota
+9
+rapa
+11
+spinaci
+8
+
