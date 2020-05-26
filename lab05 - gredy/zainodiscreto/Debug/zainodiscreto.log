@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\eros\source\repos\zainodiscreto\main.c(7): warning C4101: 'j': variabile locale senza riferimenti
+c:\users\eros\source\repos\zainodiscreto\main.c(50): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+  zainodiscreto.vcxproj -> C:\Users\Eros\source\repos\zainodiscreto\Debug\zainodiscreto.exe
